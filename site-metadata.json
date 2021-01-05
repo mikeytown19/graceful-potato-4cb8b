@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/TheVacGuy-Logos.1.svg"
     },
     "footer": {
         "has_nav": true,
