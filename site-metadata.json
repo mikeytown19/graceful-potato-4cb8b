@@ -30,7 +30,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/TheVacGuy-Logos.1.svg"
+        "logo": "images/TheVacGuy-Logos.1.svg",
+        "logo_alt": "Nav Logo"
     },
     "footer": {
         "has_nav": true,
